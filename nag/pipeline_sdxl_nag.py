@@ -329,7 +329,7 @@ class NAGStableDiffusionXLPipeline(StableDiffusionXLPipeline):
                         if self.do_classifier_free_guidance:
                             nag_negative_prompt_embeds = negative_prompt_embeds
                         else:
-                            negative_prompt = negative_prompt
+                            nag_negative_prompt = negative_prompt
                     else:
                         nag_negative_prompt = ""
 
