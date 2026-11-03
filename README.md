@@ -14,7 +14,7 @@ CFG fails in few-step models. NAG restores effective negative prompting, enablin
 ## News
 
 
-**2026-11-02:** 🤗 Our team released [NitroFusion2](https://chendaryen.github.io/NitroFusion2.github.io/) for one- and two-step generation — the [checkpoint](https://huggingface.co/ChenDY/NitroFusion2), [ComfyUI workflows](https://github.com/ChenDarYen/NitroFusion2#comfyui) and an [online demo](https://huggingface.co/spaces/ChenDY/NitroFusion2) are all available!
+**2026-11-03:** 🤗 Our team released [NitroFusion2](https://chendaryen.github.io/NitroFusion2.github.io/) for one- and two-step generation — the [checkpoint](https://huggingface.co/ChenDY/NitroFusion2), [ComfyUI workflows](https://github.com/ChenDarYen/NitroFusion2#comfyui) and an [online demo](https://huggingface.co/spaces/ChenDY/NitroFusion2) are all available!
 
 **2025-06-30:** 🤗 Code and [demo](https://huggingface.co/spaces/ChenDY/NAG_FLUX.1-Kontext-Dev) for `Flux Kontext` is now available!
 
